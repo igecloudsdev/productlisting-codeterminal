@@ -1,5 +1,6 @@
 <p align="center">
-  <img alt="vscode logo" src="images/logo-stable.png" width="100px" />
+  <img alt="vscode logo" src="images/log![__footerlogo__ige rec](https://user-images.githubusercontent.com/90117777/216327005-7e11cdc2-73e6-4729-9e79-7fac642a001f.png)
+o-stable.png" width="100px" />
   <h1 align="center">Visual Studio Code Documentation</h1>
 </p>
 
